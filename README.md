@@ -1,253 +1,105 @@
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
+
 <div align="center">
 
-# Hi 👋, I'm Piyush Puru
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:7C3AED&text=Piyush%20Puru&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn"/>
 
-### Software Engineer • AI Enthusiast • Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Piyush+Puru+👋;Final-Year+Computer+Science+Student;Software+Engineering+Enthusiast;Building+AI-Powered+Applications;Learning+LLMs+%7C+RAG+%7C+MCP+%7C+Agentic+AI;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/piyush5904">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Final-Year+Computer+Science+Student;Building+AI-Powered+Applications;Learning+Agentic+AI+%7C+RAG+%7C+MCP;Full+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=piyush5904&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Science & Engineering** student at **VIT-AP University**
-- 🤖 Passionate about **Artificial Intelligence**, **Generative AI**, and **Software Engineering**
-- 🌱 Currently building **MedRAG**, a Retrieval-Augmented Generation project
-- 🌾 Built **KrishiBandhu**, an AI-powered crop recommendation system for Smart India Hackathon
-- 💻 Enjoy building full-stack applications using the **MERN Stack**
-- 📚 Currently learning **System Design**, **Advanced DSA**, **LangChain**, and **MCP**
-- 🏏 Cricket enthusiast who enjoys solving challenging problems on and off the field
+I'm a **Final-Year B.Tech Computer Science & Engineering student at VIT-AP University** passionate about building software that solves real-world problems.
 
----
+I enjoy combining **Software Engineering**, **Artificial Intelligence**, and **Full Stack Development** to create intelligent applications that are practical, scalable, and user-focused.
 
-## 🎯 Current Focus
+My interests include:
 
-- 🚀 Building AI-powered applications
-- 📖 Strengthening Data Structures & Algorithms
-- 🧠 Learning Agentic AI
-- ☁️ Exploring Cloud & DevOps
-- 🌍 Looking for Software Engineering opportunities
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ⚡ Agentic AI
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- 🏗️ Software Architecture
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Current Focus
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Machine Learning` • `Generative AI` • `LLMs` • `LangChain` • `RAG` • `MCP`
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
+- 🩺 Building **MedRAG**
+- 🌾 Improving **KrishiBandhu**
+- 📚 Learning System Design
+- 💻 Solving Data Structures & Algorithms
+- 🤖 Exploring AI Agents & MCP
+- ☁️ Learning Cloud Technologies
+- 🚀 Preparing for Software Engineering Roles
 
 ---
 
-# 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 🌾 KrishiBandhu
-> AI-powered crop recommendation system developed for Smart India Hackathon.
-
-**Tech Used**
-
-`Python` `Machine Learning` `APIs`
-
----
-
-### 🩺 MedRAG *(Currently Building)*
-
-A medical Retrieval-Augmented Generation system that combines LLMs with document retrieval to provide reliable medical information.
-
-**Tech Used**
-
-`Python` `LLMs` `LangChain` `RAG`
-
----
-
-### 🍽️ Recipe Finder
-
-A full-stack MERN application that helps users discover recipes through an intuitive interface.
-
-**Tech Used**
-
-`React` `Node.js` `Express` `MongoDB`
-
----
-
-### 🔥 Fire Detection Robot
-
-An Arduino-powered autonomous robot capable of detecting fire and activating a suppression mechanism.
-
-**Tech Used**
-
-`Arduino` `Embedded Systems`
-
-# 🔬 Research Interests
-
-- Artificial Intelligence
-- Generative AI
-- Natural Language Processing
-- Computer Vision
-- Healthcare AI
-- Software Engineering
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- LangChain
-- Model Context Protocol (MCP)
-- System Design
-- Advanced Data Structures & Algorithms
-- Cloud Computing
-
----
-
-# 📊 GitHub Analytics
+## 💻 Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyush5904&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5904&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql"/>
 </p>
+
+---
+
+## ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=piyush5904&theme=github-dark-blue&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush5904&theme=github-dark&hide_border=true"/>
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyush5904&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🥇 **All India Rank 823** – National Math Challenge (ANMC)
-- 🧪 **CSI Research Team Member** (2 Years)
-- 🌾 **Smart India Hackathon Participant**
-- 🤖 Building AI applications using **LLMs & Retrieval-Augmented Generation**
-- 📚 Passionate about Research, Open Source & Software Engineering
-
----
-
-# 🌐 Connect With Me
+## 🤖 Artificial Intelligence
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/piyush-puru-b284b6294">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge"/>
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
 
-<a href="mailto:piyushpuru123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge"/>
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MCP-red?style=for-the-badge"/>
 
-<a href="https://github.com/piyush5904">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 
 </p>
 
 ---
+
+## 🧰 Developer Tools
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=piyush5904&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
 </p>
 
 ---
 
-# 💭 Random Dev Quote
+# 📚 Currently Exploring
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+🧠 Agentic AI • 🔗 LangChain • 📖 Model Context Protocol • ☁️ Cloud Computing • 🏗️ System Design • ⚡ Advanced DSA
+
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🌟 What Drives Me
 
-- ✅ Build MedRAG
-- ✅ Publish a research paper
-- 🔄 Master System Design
-- 🔄 Strengthen Data Structures & Algorithms
-- ⬜ Contribute to Open Source
-- ⬜ Secure a Software Engineering role
-
-- ---
-
-# 📚 Learning Journey
-
-```text
-Java                 ████████████████░░ 90%
-
-Python               ███████████████░░░ 85%
-
-MERN Stack           ██████████████░░░░ 80%
-
-Machine Learning     ███████████░░░░░░░ 65%
-
-Generative AI        ██████████░░░░░░░░ 60%
-
-System Design        ██████░░░░░░░░░░░░ 35%
-
-Cloud Computing      ███░░░░░░░░░░░░░░░ 20%
+> *"I enjoy building intelligent software that creates meaningful impact, continuously learning emerging technologies, and transforming ideas into real-world applications."*
 
 ---
-
-# 🚀 Phase 15 — Fun Facts
-
-```markdown
----
-
-# ⚡ Fun Facts
-
-🏏 Cricket keeps me disciplined.
-
-🤖 I enjoy building AI-powered software.
-
-📖 I love learning new technologies.
-
-🌱 Every project teaches me something new.
-
----
-
-⭐ If you enjoy my projects, consider giving them a star!
