@@ -64,9 +64,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
-
----
-
 ---
 
 # 🚀 Featured Projects
