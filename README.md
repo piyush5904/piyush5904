@@ -100,6 +100,273 @@ My interests include:
 
 # 🌟 What Drives Me
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 MedRAG *(In Progress)*
+
+An AI-powered medical assistant using **Retrieval-Augmented Generation (RAG)** to provide reliable, context-aware medical information.
+
+**Highlights**
+- 🤖 Large Language Models
+- 📚 Document Retrieval
+- 🔍 Vector Search
+- ⚕️ Medical Knowledge Base
+
+**Tech Stack**
+
+`Python` `LangChain` `LLMs` `RAG`
+
+</td>
+
+<td width="50%">
+
+### 🌾 KrishiBandhu
+
+AI-powered crop recommendation system developed for **Smart India Hackathon**.
+
+**Highlights**
+
+- 🌦 Weather-based recommendations
+- 🌱 Crop prediction
+- 📊 Machine Learning
+- 🔗 API Integration
+
+**Tech Stack**
+
+`Python` `Machine Learning` `APIs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍽 Recipe Finder
+
+A modern MERN Stack web application for discovering recipes with a clean and responsive interface.
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`Express`
+
+`MongoDB`
+
+</td>
+
+<td width="50%">
+
+### 🔥 Fire Detection Robot
+
+An Arduino-powered autonomous robot capable of detecting fire and activating a suppression system.
+
+**Tech Stack**
+
+`Arduino`
+
+`Embedded Systems`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# 🔬 Research Interests
+
+<p align="center">
+
+Artificial Intelligence • Generative AI • Large Language Models • Retrieval-Augmented Generation • Natural Language Processing • Computer Vision • Software Engineering
+
+</p>
+
+<br>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=piyush5904&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5904&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=piyush5904&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush5904&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<br>
+
+# 📌 GitHub Highlights
+
+<div align="center">
+
+| 💡 | Description |
+|:--:|-------------|
+| 🚀 | Building AI-powered software |
+| 📚 | Passionate about continuous learning |
+| 🌱 | Exploring Agentic AI & MCP |
+| 🤝 | Interested in Open Source |
+| 💻 | Full Stack Development |
+
+</div>
+
+<br>
+
 > *"I enjoy building intelligent software that creates meaningful impact, continuously learning emerging technologies, and transforming ideas into real-world applications."*
 
 ---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🥇 **ANMC AIR 823** | Secured All India Rank 823 in the National Math Challenge |
+| 🧪 **CSI Research Team** | Active member for 2 years |
+| 🌾 **Smart India Hackathon** | Built KrishiBandhu, an AI-powered agriculture solution |
+| 🤖 **Generative AI** | Currently building MedRAG using LLMs & RAG |
+
+</div>
+
+<br>
+
+# 🎓 Education
+
+### 🎓 VIT-AP University
+
+**Bachelor of Technology (B.Tech)**
+
+Computer Science & Engineering
+
+📍 Amaravati, Andhra Pradesh
+
+Expected Graduation: **2027**
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build production-ready AI applications
+- 🤖 Master Generative AI & Agentic AI
+- 📚 Become proficient in System Design
+- 💻 Solve 500+ DSA problems
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud & DevOps
+- 🏢 Secure a Software Engineering role
+
+<br>
+
+# 🌱 Open Source Interests
+
+I'm interested in contributing to projects related to:
+
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models
+- 📚 LangChain Ecosystem
+- 🌐 Developer Tools
+- 🏥 Healthcare AI
+- ⚡ Open Source Software
+
+<br>
+
+# 📜 Certifications (Upcoming)
+
+- Oracle Java
+
+<br>
+
+# ⚡ Beyond Coding
+
+- 🏏 Passionate about Cricket
+- 📖 Love learning emerging technologies and physics
+- 💡 Enjoy solving challenging real-world problems
+- 🤝 Believe in continuous improvement and lifelong learning
+
+<br>
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/piyush5904">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/piyush-puru-b284b6294">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<br>
+
+# 💼 Experience & Leadership
+
+### 🧪 CSI Research Team
+- Active member for **2 years**
+- Participated in research discussions, technical workshops, and innovation activities
+- Worked on AI and software engineering related projects
+
+---
+
+# 🚀 Looking Ahead
+
+I'm currently working toward becoming a **Software Engineer specializing in AI-powered applications**, with a strong interest in building scalable products that combine software engineering, machine learning, and modern AI technologies.
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for stopping by!
+
+If you find any of my projects interesting, feel free to ⭐ star them or connect with me.
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=120&section=footer"/>
+
+</div>
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
