@@ -100,81 +100,82 @@ My interests include:
 
 # 🌟 What Drives Me
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🩺 MedRAG *(In Progress)*
 
-An AI-powered medical assistant using **Retrieval-Augmented Generation (RAG)** to provide reliable, context-aware medical information.
+AI-powered medical assistant using Retrieval-Augmented Generation (RAG) and Large Language Models.
 
-**Highlights**
-- 🤖 Large Language Models
-- 📚 Document Retrieval
-- 🔍 Vector Search
-- ⚕️ Medical Knowledge Base
+**Tech**
 
-**Tech Stack**
-
-`Python` `LangChain` `LLMs` `RAG`
+`Python` `LLMs` `LangChain` `RAG`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 KrishiBandhu
 
-AI-powered crop recommendation system developed for **Smart India Hackathon**.
+AI-powered crop recommendation system developed for Smart India Hackathon.
 
-**Highlights**
-
-- 🌦 Weather-based recommendations
-- 🌱 Crop prediction
-- 📊 Machine Learning
-- 🔗 API Integration
-
-**Tech Stack**
+**Tech**
 
 `Python` `Machine Learning` `APIs`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🍽 Recipe Finder
+<td width="50%" valign="top">
 
-A modern MERN Stack web application for discovering recipes with a clean and responsive interface.
+### 🍽️ Recipe Finder
 
-**Tech Stack**
+A full-stack MERN application for discovering recipes with a clean and responsive interface.
 
-`React`
+**Tech**
 
-`Node.js`
-
-`Express`
-
-`MongoDB`
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+
+My personal developer portfolio showcasing projects, technical skills, achievements, and experience.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
 
 ### 🔥 Fire Detection Robot
 
-An Arduino-powered autonomous robot capable of detecting fire and activating a suppression system.
+An Arduino-powered autonomous robot capable of detecting fire and activating a suppression mechanism.
 
-**Tech Stack**
+**Tech**
 
-`Arduino`
-
-`Embedded Systems`
+`Arduino` `Embedded Systems`
 
 </td>
+
 </tr>
+
 </table>
 
 <br>
@@ -189,16 +190,7 @@ Artificial Intelligence • Generative AI • Large Language Models • Retrieva
 
 <br>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=piyush5904&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5904&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+\
 <br>
 
 <div align="center">
@@ -209,13 +201,7 @@ Artificial Intelligence • Generative AI • Large Language Models • Retrieva
 
 <br>
 
-# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush5904&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 <br>
 
@@ -295,7 +281,7 @@ I'm interested in contributing to projects related to:
 
 # 📜 Certifications (Upcoming)
 
-- Oracle Java
+- Oracle Agentic AI
 
 <br>
 
@@ -334,16 +320,27 @@ I'm interested in contributing to projects related to:
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
 
 <br>
 
 # 💼 Experience & Leadership
 
-### 🧪 CSI Research Team
-- Active member for **2 years**
-- Participated in research discussions, technical workshops, and innovation activities
-- Worked on AI and software engineering related projects
+### 🧪 CSI Research Team (2 Years)
+
+- Active member of the CSI Research Team for two years.
+- Participated in technical workshops, research discussions, and innovation-driven activities.
+- Co-authored the research paper **"Symptom-Based Classification and Diagnosis of COVID-19."**
+- Developed **JobXpert**, a career guidance platform designed to assist students in exploring career paths and opportunities.
+- Collaborated with fellow researchers on AI and software engineering projects.
+
+---
+
+# 📄 Research
+
+### Adaptive Wavelet-Based Image Compression using Bayesian Thresholding and Run-Length Encoding
+
+- Co-authored a research paper proposing an adaptive image compression technique using wavelet transforms, Bayesian thresholding, and run-length encoding.
+- Contributed to implementation, experimentation, performance evaluation, and technical documentation.
 
 ---
 
