@@ -193,12 +193,6 @@ Artificial Intelligence • Generative AI • Large Language Models • Retrieva
 \
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=piyush5904&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 
