@@ -273,9 +273,6 @@ I'm interested in contributing to projects related to:
 
 <br>
 
-# 📜 Certifications (Upcoming)
-
-- Oracle Agentic AI
 
 <br>
 
