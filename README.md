@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Final-Year B.Tech Computer Science & Engineering student at VIT-AP University** passionate about building software that solves real-world problems.
+I'm a **B.Tech Computer Science & Engineering student at VIT-AP University, graduating in 2027** passionate about building software that solves real-world problems.
 
 I enjoy combining **Software Engineering**, **Artificial Intelligence**, and **Full Stack Development** to create intelligent applications that are practical, scalable, and user-focused.
 
